@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+<head>
+    <title> Listas e tabelas 09/03</title>
+    <meta charset="UTF-8">
+</head>    
+
+<body>
+    <!-- parte 1-->
+    <Font Color=#e5944e size=5>
+     <h1>Lista não ordenada- Nível 1 </h1>
+     <Font Color=#0000    size=5> 
+
+    <ul>        
+        <li>Desktop</li>
+        <li>Notebook</li>
+        <li>Netbook</li>
+        <li>Table</li>
+    </ul>    
+    
+    <Font Color=#6A5ACD size=5>
+    <h1>Lista não ordenada- Nível 1 </h1>
+    <Font Color=#0000    size=5> 
+
+    <ol>
+        <li>Desktop</li>
+        <li>Notebook</li>
+        <li>Netbook</li>
+        <li>Table</li>
+    </ol>   
+    
+    <Font Color=#F08080 size=5>
+    <h1>Lista não ordenada- Nível 1 </h1>
+    <Font Color=#0000    size=5> 
+
+    <table border="1">
+        <tr>
+            <td>nome</td>
+            <td>idade</td>
+            <td>profissão</td>  
+         
+        </tr>
+        <tr>
+            
+            <td>Lucas</td>
+            <td> 22</td>
+            <td>estudante</td>
+        </tr>
+        <tr>
+            <td>Roger</td>
+            <td> 23</td>
+            <td>Designer</td>
+        
+        </tr>
+    </table>
+            </html>
