@@ -1,0 +1,35 @@
+header{
+    background-color:#233958S;
+    padding: 20px
+}
+h1{
+    color: whitesmoke;
+}
+
+#logo{
+    border-radius: 20px;
+    width: 250px;
+}
+
+@font-face {
+    font-family:'blinker';
+    src: url('Blinker-Regular.ttf') format('TrueType');
+}
+
+.titulo-principal{
+    position: absolute;
+    top: 13%;
+    left: 30%;
+    transform: translate(-30px -10px);
+    font-size: 35px;
+    font-family: 'blinker';
+}
+
+main{
+    width: 940px;
+    margin: auto;
+}
+
+form{
+    margin: 40px 0;
+}
