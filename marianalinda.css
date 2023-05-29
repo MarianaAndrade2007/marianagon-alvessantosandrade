@@ -1,5 +1,5 @@
 header{
-    background-color:#233958S;
+    background-color:#233958;
     padding: 20px
 }
 h1{
@@ -9,6 +9,7 @@ h1{
 #logo{
     border-radius: 20px;
     width: 250px;
+    height: 250px;
 }
 
 @font-face {
@@ -32,4 +33,54 @@ main{
 
 form{
     margin: 40px 0;
+}
+form label, form p{/*vamos reaplicar a mesma configuração
+     do form label para o paragrafo por isso o uso da virgula*/
+    display:block;
+    font-size: 20px;
+    margin: 0 0 10px;/*10px para baixo*/;
+}
+.input-padrão{
+    display:block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+.checkbox{
+    margin: 20px 0;
+}
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    background: #233958;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+.enviar:hover{
+    background-color:beige ;
+    transform: scale(1.2);
+}
+.copyright{
+    color: black;
+    font-size: 5px;
+
+}
+
+footer{
+    text-align: center;
+    background-color: #233958;
+    padding: 10px 0;
+
+}
+#logo1{
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    
+    
 }
