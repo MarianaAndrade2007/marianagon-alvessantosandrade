@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+}
+input[type=text]{
+    background-color: rgb(56, 0, 187);
+    color: rgb(255, 255, 255);
+    width: 100%;
+    border: 2px solid #555;
+    border-radius: 4px;
+}
+
+
