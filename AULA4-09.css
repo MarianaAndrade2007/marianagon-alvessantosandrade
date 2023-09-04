@@ -1,0 +1,14 @@
+Body{
+    background-color: rgba(57, 94, 129, 0.575);
+
+}
+text{
+    color: aliceblue;
+}
+input{
+    color: rgb(17, 46, 11);
+}
+#logo{
+    border-radius: 30px;
+    width: 250px;
+}
