@@ -1,0 +1,14 @@
+#CALCULAR O DÓLAR
+cotaçao_dolar= float(input("Digite a cotação do dólar: "))
+
+valor_dolar=float(input("Digite uma valor em dólares:  "))
+
+
+valor_real=valor_dolar * cotaçao_dolar
+
+print(f"O valor em reais é:R$ {valor_real:.2f}")
+
+
+
+
+
